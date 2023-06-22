@@ -2,23 +2,20 @@ import { defineConfig } from 'vitepress';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: 'Deep Learning Lab',
-  description: 'Deep Learning Lab',
+  title: 'Westlake University',
+  description: 'dll home page',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' },
+      { text: 'Research', link: '/research' },
+      { text: 'Our Team', link: '/team' },
+      { text: 'Publications', link: '/publications' },
+      { text: 'Contact', link: '/contact' },
     ],
 
-    sidebar: [
-      {
-        text: 'Examples',
-        items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' },
-        ],
-      },
-    ],
+    // socialLinks: [
+    //   { icon: 'github', link: 'https://github.com/vuejs/vitepress' },
+    // ]
   },
 });
