@@ -28,7 +28,7 @@ _Chiyu Song, Hongliang He, Haofei Yu, Pengfei Fang, Leyang Cui, Zhenzhong Lan_
 
 <div style='display: flex'><a href='https://arxiv.org/abs/2106.01263'><img src="https://img.shields.io/badge/Paper-Arxiv-brightgreen" /></a> &nbsp;<a href='https://github.com/dll-wu/Uni-Encoder'><img src="https://img.shields.io/badge/Code-GitHub-red" /></a></div>
 
-### AAAI 2022
+### AAAI 2023
 
 **Instance Smoothed Contrastive Learning for Unsupervised Sentence Embedding**
 
