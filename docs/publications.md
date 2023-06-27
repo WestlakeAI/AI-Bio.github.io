@@ -36,7 +36,7 @@ _Hongliang He, Junlei Zhang, Zhenzhong Lan, Yue Zhang_
 
 <div><a href='https://arxiv.org/abs/2305.07424'><img src="https://img.shields.io/badge/Paper-Arxiv-brightgreen" /></a></div>
 
-## Pre-Print
+## Preprint
 
 **SMILE: Single-turn to Multi-turn Inclusive Language Expansion via ChatGPT for Mental Health Support**
 
