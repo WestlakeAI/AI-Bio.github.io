@@ -10,7 +10,7 @@
 
 _Anqi Li, Lizhi Ma, Yaling Mei, Hongliang He, Shuai Zhang, Huachuan Qiu, Zhenzhong Lan_
 
-<div style='display: flex'><a href='https://github.com/dll-wu/Client-Reactions/blob/main/paper/Understanding%20Client%20Reactions%20in%20Online%20Mental%20Health%20Counseling.pdf'><img src="https://img.shields.io/badge/Paper-GitHub-brightgreen" /></a> &nbsp;<a href='https://github.com/dll-wu/Client-Reactions'><img src="https://img.shields.io/badge/Code-GitHub-red" /></a></div>
+<div style='display: flex'><a href='https://arxiv.org/abs/2306.15334'><img src="https://img.shields.io/badge/Paper-Arxiv-brightgreen" /></a> &nbsp;<a href='https://github.com/dll-wu/Client-Reactions'><img src="https://img.shields.io/badge/Code-GitHub-red" /></a></div>
 
 ---
 
