@@ -12,7 +12,7 @@
 
 _Huachuan Qiu, Tong Zhao, Anqi Li, Shuai Zhang, Hongliang He, Zhenzhong Lan†_
 
-<div style='display: flex'><a href=https://arxiv.org/abs/2307.16457'><img src="https://img.shields.io/badge/Paper-Arxiv-brightgreen" /></a> &nbsp;<a href='https://github.com/qiuhuachuan/DialogueSafety'><img src="https://img.shields.io/badge/Code-GitHub-red" /></a></div>
+<div style='display: flex'><a href="https://arxiv.org/abs/2307.16457"><img src="https://img.shields.io/badge/Paper-Arxiv-brightgreen" /></a> &nbsp;<a href='https://github.com/qiuhuachuan/DialogueSafety'><img src="https://img.shields.io/badge/Code-GitHub-red" /></a></div>
 
 ### ACL 2023 (CCF-A)
 
