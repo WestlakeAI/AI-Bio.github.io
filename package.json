@@ -5,9 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "docs:dev": "vitepress dev docs --base /AI-Bio --port 8089 --host",
-    "docs:build": "vitepress build docs --base /AI-Bio",
-    "docs:preview": "vitepress preview docs --base /AI-Bio --port 8089"
+    "docs:dev": "vitepress dev docs --base /AI-Bio/ --port 8089 --host",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs --base /AI-Bio/ --port 8089"
   },
   "keywords": [],
   "author": "sqma <masiqi@westlake.edu.cn>",

@@ -2,12 +2,12 @@
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
-title: Deep Learning Lab
+title: CAIRI
 
 hero:
-  name: 'Deep Learning Lab'
-  text: '蓝振忠 博士'
-  tagline: '西湖大学深度学习实验室 PI'
+  name: 'CAIRI'
+  text: '李子青 博士'
+  tagline: '西湖大学人工智能与创新实验室 PI'
   image:
     src: /image/lzz.png
     alt: PI
