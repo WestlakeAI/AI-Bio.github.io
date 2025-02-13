@@ -10,7 +10,7 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Research', link: '/research' },
-      { text: 'Our Team', link: '/team' },
+      // { text: 'Our Team', link: '/team' },
       { text: 'Publications', link: '/publications' },
       { text: 'Contact', link: '/contact' },
     ],
