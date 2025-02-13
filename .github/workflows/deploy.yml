@@ -25,6 +25,8 @@ jobs:
       - name: Build
         run: npm run docs:build
       - uses: actions/configure-pages@v2
+        with:
+          static_site_generator: vite_press  # 根据实际生成器调整，如无对应值可省略
       - uses: actions/upload-pages-artifact@v3
         with:
           path: docs/.vitepress/dist
