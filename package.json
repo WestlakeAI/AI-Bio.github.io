@@ -16,5 +16,6 @@
     "vitepress": "^1.6.3",
     "vue": "^3.5.13"
   },
+  "type": "module",
   "repository": "https://github.com/Westlake-AI/AI-Bio.git"
 }
