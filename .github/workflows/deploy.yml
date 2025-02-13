@@ -24,7 +24,7 @@ jobs:
       - run: npm ci
       - name: Build
         run: npm run docs:build
-      - uses: actions/configure-pages@v2
+      - uses: actions/configure-pages@v5
         # with:
         #   static_site_generator: vite_press  # 根据实际生成器调整，如无对应值可省略
       - uses: actions/upload-pages-artifact@v3
