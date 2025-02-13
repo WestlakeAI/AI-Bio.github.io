@@ -3,7 +3,6 @@ import { defineConfig } from 'vitepress';
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: 'Westlake University',
-  base: '/AI-Bio/',
   description: 'CAIRI home page',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
