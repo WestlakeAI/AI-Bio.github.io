@@ -19,17 +19,17 @@ jobs:
           fetch-depth: 0
       - uses: actions/setup-node@v3
         with:
-          node-version: 20.0.0
+          node-version: 16
           cache: npm
       - run: npm ci
       - name: Build
         run: npm run docs:build
       - uses: actions/configure-pages@v2
-        with:
-          static_site_generator: vite_press  # 根据实际生成器调整，如无对应值可省略
-      - uses: actions/upload-pages-artifact@v1
         # with:
-        #   path: docs/.vitepress/dist
+        #   static_site_generator: vite_press  # 根据实际生成器调整，如无对应值可省略
+      - uses: actions/upload-pages-artifact@v1
+        with:
+          path: docs/.vitepress/dist
       - name: Deploy
         id: deployment
         uses: actions/deploy-pages@v1
